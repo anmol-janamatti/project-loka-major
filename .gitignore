@@ -23,6 +23,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+/backend/requirements-cpu.txt
 
 # ==========================================
 # Virtual Environments
